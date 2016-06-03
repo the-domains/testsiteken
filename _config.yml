@@ -1,0 +1,28 @@
+name: TestSiteKen
+favicon: null
+layout_spectrum: 0.6179293694440275
+typography_spectrum: 0.35644175624474883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6038704325910658
+  lightness: 0.8124450761824846
+  saturation: 0.44066919502802193
+  rhythmicContrast: 0.29751826147548854
+purpose: []
